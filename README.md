@@ -32,3 +32,7 @@ The following tasks were completed successfully:
 2. I implemented RESTful APIs for the Meeting module on both the server and client sides. The application supports full operations (Create, View, Delete, Delete   Many) for meeting instances.
 
 Note: MongoDB was required to run the project and had to be installed separately.
+
+3. I added the video link to show my work result here
+
+https://www.loom.com/share/5f8f3b93ada643d4af26b5ae58153f70
